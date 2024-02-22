@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(255, 229, 229);
+}
+
+.titulo {
+    color: rgb(63, 51, 133);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 200;
+}
+
+.destaque {
+    color:rgb(252, 47, 74);
+}
+
+.topleft {
+    
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    top: 8px;
+    left: 30px;
+}

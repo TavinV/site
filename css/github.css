@@ -1,0 +1,29 @@
+body {
+    background-color: antiquewhite;
+    
+}
+
+.titulo {
+    color: rgb(0, 7, 20);
+
+}
+
+.texto {
+    color: rgb(0, 7, 20);
+}
+
+.topleft {
+    position: absolute;
+   
+    height: 30px;
+    width: 30px;
+    top: 8px;
+    left: 30px;
+}
+
+.imagemcentral {
+    margin: auto;
+   
+    height: 400px;
+    width: 400px;
+}
